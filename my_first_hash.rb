@@ -1,5 +1,5 @@
 def my_hash (variable)
-  variable[key] = "value"
+  variable = {}
 end
 
 
