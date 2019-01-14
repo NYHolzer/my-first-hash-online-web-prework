@@ -2,6 +2,7 @@ def my_hash (variable)
   variable = {}
   variable.each do |key, value|
     variable[key] = value
+  end
 end
 
 
